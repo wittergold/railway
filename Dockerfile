@@ -1,1 +1,1 @@
-FROM ghcr.io/eooce/nodejs:main
+FROM francisellington29/internet:node-x
